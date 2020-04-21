@@ -1,0 +1,15 @@
+{
+    "database": {
+      "user": "postgrease",
+      "password": "slick",
+      "database": "magical-graphql",
+      "host": "localhost",
+      "port": 5432
+    },
+    "server": {
+      "port": 3333
+    },
+    "httpMsgsForm": {
+      "format": "HTML"
+    }
+}
