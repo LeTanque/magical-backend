@@ -25,7 +25,7 @@
   "homepage": "https://github.com/LeTanque/MTG-magical-backend#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "config": "^3.2.2",
+    "config": "^3.3.8",
     "cors": "^2.8.5",
     "dataloader": "^1.4.0",
     "esm": "^3.2.25",
